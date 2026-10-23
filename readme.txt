@@ -1,4 +1,4 @@
-﻿Juego hecho con Phase
+﻿Juego hecho con Phaser
 
  /**
 * @author       Richard Davey <rich@photonstorm.com>
